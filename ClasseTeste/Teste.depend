@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1608573036 source:d:\c-c++\teste\main.cpp
+	<iostream>
+	<string>
+
+1608573260 source:d:\c-c++\teste\estudantes.cpp
+	<iostream>
+	<string>
+
